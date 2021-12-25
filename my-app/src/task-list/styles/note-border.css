@@ -1,0 +1,25 @@
+.app{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.noteBorder{
+  border: 1px solid grey;
+  border-top: 20px outset #356EAD;
+  border-radius: 10px;
+  justify-content: center;
+  align-content: center;
+  align-items: center; 
+  margin-top: 180px;
+}
+
+.box{
+  width: 600px;
+  justify-content: center;
+  align-content: center;
+  align-items: center; 
+  padding: 20px;
+  border: 1px solid grey;
+}
+

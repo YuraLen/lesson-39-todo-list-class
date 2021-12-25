@@ -1,0 +1,11 @@
+@import '../fonts/fonts.css';
+@import './reset.css';
+@import './note-border.css';  
+@import './buttons.css';
+@import './task-row.css';
+@import './control-bar.css';
+@import './Form.css';
+body {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
